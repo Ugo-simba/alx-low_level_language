@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main - Entry point 
+ * main - Entry point
  * Description: random number and tell if it is positive, negative, or zero.
  * Return: Always 0.
  */
