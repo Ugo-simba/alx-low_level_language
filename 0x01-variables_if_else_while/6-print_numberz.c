@@ -13,6 +13,6 @@ for (num = 48, i = 0; i < 10; num++, i++)
 putchar(num);
 }
 putchar(10);
-return(0);
+return (0);
 }
 
