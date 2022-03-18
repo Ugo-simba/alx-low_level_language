@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_square - draws a square
+ * print_square - draws a sqaure
  * @size: length and width of square
  *
  * Return: void
@@ -14,7 +14,7 @@ void print_square(int size)
 
 	if (size > 0)
 	{
-		for (row = 0; row < size; row;)
+		for (row = 0; row < size; row++)
 		{
 			for (column = 0; column < size; column++)
 			{
