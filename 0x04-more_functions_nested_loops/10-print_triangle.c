@@ -10,7 +10,7 @@
 void print_triangle(int size)
 {
 	int line = 0;
-	int space;
+	int spaces;
 	int hashes;
 
 	if (size > 0)
@@ -34,3 +34,4 @@ void print_triangle(int size)
 		_putchar('\n');
 	}
 }
+
