@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_diagnoal - draws diagonal line
+ * print_diagonal - draws diagonal line
  * @n: number of times
  *
  * Return: void
@@ -30,3 +30,4 @@ void print_diagonal(int n)
 		_putchar('\n');
 	}
 }
+
