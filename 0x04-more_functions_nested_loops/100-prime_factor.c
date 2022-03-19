@@ -18,7 +18,7 @@ int main(void)
 		{
 			quotient = quotient / divisor;
 		}
-		else 
+		else
 		{
 			divisor++;
 		}
