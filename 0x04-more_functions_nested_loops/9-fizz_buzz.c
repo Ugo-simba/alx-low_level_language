@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * main - take the fizz-buzz challenge
+ * main - takes the fizz-buzz challenge
  *
  * Return: Always 0
  */
@@ -15,11 +15,11 @@ int main(void)
 	{
 		if (n % 5 == 0 && n % 3 == 0)
 			printf("FizzBuzz ");
-		else if (n% 5 == 0)
+		else if (n % 5 == 0)
 			if (n == 100)
 				printf("Buzz");
 			else
-				printf("Buzz ");
+				printf(Buzz ");
 		else if (n % 3 == 0)
 			printf("Fizz ");
 		else
