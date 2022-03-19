@@ -12,7 +12,7 @@ int main(void)
 	long int quotient = prime;
 	long int divisor = 2;
 
-	while (quotient ! = divisor)
+	while (quotient != divisor)
 	{
 		if (quotient % divisor == 0)
 		{
